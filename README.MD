@@ -2,8 +2,6 @@
 
 This is a telegram bot bult with Python and `aiogram` library that converts audio files into voice messages. The bot allows users to send an audio file and add a caption, and it will convert the audio file into a voice message with the provided caption. The converted voice message will be sent back to the user.
 
-**DEMO:** [Audio To Voice Convert Telegram Bot](https://t.me/aud_to_voice_bot)
-
 ## Features
 - Converts audio files into voice messages
 - Allows adding a caption to the converted voice message
