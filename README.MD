@@ -16,7 +16,7 @@ This is a telegram bot bult with Python and `aiogram` library that converts audi
 
 1. **Clone this repository:**
     ```bash
-   git clone https://github.com/YOUR-USERNAME/audio-to-voice-convert-bot.git
+   git clone https://github.com/JuicingNow/audio-to-voice-convert-bot.git
 
 2. **Install dependencies:**
     ```bash
